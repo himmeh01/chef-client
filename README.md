@@ -1,1 +1,3 @@
-created a new readme
+# Read Me
+
+* created a new readme
